@@ -240,12 +240,12 @@ img[alt="git picture"] {
 }
 /* making img responsive */
 .projects-col > img {
-	max-width: 100%;
+	margin: auto;
+	width: 100%;
+	max-width: 500px;
 	max-height: 100%;
-	display: block;
-	margin: 0;
-	padding: 0;
 }
+
 .icons {
 	display: flex;
 	justify-content: center;
